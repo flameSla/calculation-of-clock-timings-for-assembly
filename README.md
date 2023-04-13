@@ -1,4 +1,5 @@
 # Сalculation of "clock" timings for assembly machines
+
 ## A "clock" - what is it?
 
 ![alt text](img/pic_1.png)
@@ -73,3 +74,10 @@ We have to take all the "reds" at once. Since 16.8 > 12, various options are pos
 
 #### One inserter, but we load 8 gears into the assembly machine (3)
 [timing](https://www.wolframalpha.com/input?i=%282+%2B+6%2F25%29%2F11.2%2F60)
+
+BP:
+```
+0eNrtmttu2zgQht+FwN5ZhUgdLBmLvdnHWASCLI9tojqBorL1Fn73HcqOZSdyzKGbNCnai6CyxPnJ4cfh8PCdLcseWiVrzRbfmSyaumOLf76zTm7qvDS/6V0LbMGkhorNWJ1X5mkJOX7K9jMm6xV8Ywu+f5gxqLXUEg4WhoddVvfVEhR+8LzsjLVNh5/jf1EFTaRJ+iWasR1+m/rhl8gYR9HOvO5agJVXNau+BC9gC7Hfz15IiNsSaXCfRHCSgBIKrWThQQ1qs/PQg6DWeQFTqvGTZoCKK6mw6PAaa7zs12tQWSf/Q6vcP/2bEA8t2nenC6ObEljFO30Y22jc2Y65hQa/sx2JBdHxKBE5SKQWPX6nBPdtuuNeEW7TH/eKCFqHJC4aYwCQ9VrW+M4rttDpqZ7ho1Z80DoWyTrQWtabQVdB1TxC1uO7EkMIrLJjlbTqYbIOYxzodF58xdDTgcKiN+owH+pwFn3QDnpJq6bMlrDNH2WjTLlCqqKXOsN3q5OxtVSdzl7MCo9S6R5/GWs0fGF8Unw104OZUHRuZhffPFRtrnJtdNhfbH94Xx/qMziDmz8bBVCfzyFyhQ2I9g/7SXdEBHf4v4w7wjNXmB8Ehrynqg7P19wVEwj234jgMTx3/RIdMohO6IenzkLtGuRmu2x6ZfILwR+mDCe0gOkUAlJrB5rp/G08KHxr6C8r8bmpF6kd5IJbAYauuU4YQiqiKciEIM6YLpSJgNDB/Jfp4IBbdnBIGIT8rQZhZEkZp8YxERPzJSfExii8gkKuQHnYdUtZD103kTslo166n6bqaGikqnPA6u9LpPgzpP7EAk2v296N1HaHtetrna1VU2WyRjtssc7LDmikhi9JnTFBz1/EOGflXQfVskQgvSovtrI2nfd6UpcOHY+DXQ7tz3vdVAOHXldIqAvwWowe7IyNViEW2MJHM2ZGRMLJuqU0RNLfiJwjktAQEf4VRAKfiAjOP+/GSMBJjGDVfkNy1umhIEISXINEkCHh7wdJQFqbm4rR9+bGnCBXUm8r0LKwntI4v4LiaOsH0NiBsZGNUIYRju2mBXVIHhbsDwcq0fQ15jCNuT1zXa4kw2RE0KL4sPM7jer8xZfT5EZOGxpHSM5T3SnjsdP2gKXxOWm96YZ1QsY6/elYC5MbvzPWyetYR8HrWCfWWKeWWKdua3Q79ELSDgB11ISctsZ1IjsUVLIvkoefhHbgv3vEfpkjXKId+6+i/bz4dbSfL7+voR2SdidehQ999whKYbaXDaaOJ2HJlGrotidyp2pEW4u7DYWYlh+5nFeFc9IRrJvGOFk9jRj7DEwMglMj+rAjc+Vk+kb63x9z//Gg2j1VujoeUqdjoWOL6btRswuPnBzeYlTy2jLX5hD6qeUmXGGvDVFWeyXkQ63OvDF1DOw7HRL82PZIhYuPDeTK+3cLUE43Cb7lhS53t1vESZcDnOCPBC0bdNIIiAMs/dgDLLEbYBHt7oObayO3g52PTH1MadJnCExz2gUVNxASYvLrJJLSrsE4icQ+LVpc5tcfL1xMZLKT4SLmlOOhT8B9LNzOuz5wbIoD2h0ttwEQEpP32yIPh9fG4unq5IzhaqI7XOlLeDhPxTxOhZ8E+P3/ptG64Q==
+```
+
+**Important:** I do not know which option is better for UPS. You will have to make benchmarks yourself.
