@@ -61,10 +61,10 @@ If we load **X** gears, we will produce:
 * 9 gears -> 9*1.4 = 12.6 reds
 * 8 gears -> 8*1.4 = 11.2 reds
 
-
-
-
 We have to take all the "reds" at once. Since 16.8 > 12, various options are possible:
+
+![alt text](img/pic_2.png)
+
 #### Two inserters (1)
 [timing](https://www.wolframalpha.com/input?i=%282+%2B+6%2F25%29%2F16.8%2F60)
 
