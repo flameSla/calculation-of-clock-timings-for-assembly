@@ -54,12 +54,22 @@ Consider the calculation of timings for example:
 
 maximum_crafts = 3 < 12 ( [link](https://onlinegdb.com/uG0Mjc1v1) )
 
-If we load 12 gears, we will produce:
+If we load **X** gears, we will produce:
+* 12 gears -> 12*1.4 = 16.8 reds
+* 11 gears -> 11*1.4 = 15.4 reds
+* 10 gears -> 10*1.4 = 14 reds
+* 9 gears -> 9*1.4 = 12.6 reds
+* 8 gears -> 8*1.4 = 11.2 reds
 
-| 12 gears | 12*1.4 = 16.8 reds |
 
-| 11 gears | 11*1.4 = 15.4 reds |
 
-10 gears -> 14 reds
-9 gears -> 12.6 reds
-8 gears -> 11.2 reds
+
+We have to take all the "reds" at once. Since 16.8 > 12, various options are possible:
+#### Two inserters (1)
+[timing](https://www.wolframalpha.com/input?i=%282+%2B+6%2F25%29%2F16.8%2F60)
+
+#### One inserter, but works 2 times more often (2)
+[timing](https://www.wolframalpha.com/input?i=2*%282+%2B+6%2F25%29%2F16.8%2F60)
+
+#### One inserter, but we load 8 gears into the assembly machine (3)
+[timing](https://www.wolframalpha.com/input?i=%282+%2B+6%2F25%29%2F11.2%2F60)
